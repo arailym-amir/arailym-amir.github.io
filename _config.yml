@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Arailym Amir
-description: "Hi I'm Arailym, and I'm a Data Analyst.  My portfolio focuses on interesting projects I've recently undertaken(in progress), with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
+description: "Hi, I'm Arailym, a Data Analyst and 2026 CS grad. This portfolio is a work in progress, much like my data science journey! Here you'll find projects I've recently worked on, with more on the way. Feel free to visit my GitHub and LinkedIn pages, or download my resume, below!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
